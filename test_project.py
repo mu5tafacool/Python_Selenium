@@ -6,7 +6,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from project import *
+from webdriver_manager.chrome import ChromeDriverManager
+# from project import *
+from project import webElement0, webElement1, webElement2, webElement3, webElement4, webElement5, webElement6, webElement7, webElement8, webElement9, webelement_weeks, problem_set, problem_click
 
 
 # terminal>$ python -m  pytest test_project.py
