@@ -1,0 +1,21 @@
+
+Problem Set 0
+1. Indoor Voice
+2. Playback Speed
+3. Making Faces
+4. Einstein
+5. Tip Calculator
+
+Problem Set 1
+1. Deep Thought
+2. Home Federal Savings Bank
+3. File Extensions
+4. Math Interpreter
+5. Meal Time
+
+Problem Set 2
+1. camelCase
+2. Coke Machine
+3. Just setting up my twttr
+4. Vanity Plates
+5. Nutrition Facts

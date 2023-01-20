@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 from webdriver_manager.chrome import ChromeDriverManager
 # from project import *
-from project import webElement0, webElement1, webElement2, webElement3, webElement4, webElement5, webElement6, webElement7, webElement8, webElement9, webelement_weeks, problem_set, problem_click
+from project import webElement0, webElement1, webElement2, problem_set, problem_click
 
 
 # terminal>$ python -m  pytest test_project.py
@@ -46,45 +46,3 @@ def test_week2():
     assert webElement2(chrome_driver) == chrome_driver.title
     assert webElement2(
         chrome_driver) == "Week 2 Loops - CS50's Introduction to Programming with Python"
-
-
-def test_week3():
-    assert webElement3(chrome_driver) == chrome_driver.title
-    assert webElement3(
-        chrome_driver) == "Week 3 Exceptions - CS50's Introduction to Programming with Python"
-
-
-def test_week4():
-    assert webElement4(chrome_driver) == chrome_driver.title
-    assert webElement4(
-        chrome_driver) == "Week 4 Libraries - CS50's Introduction to Programming with Python"
-
-
-def test_week5():
-    assert webElement5(chrome_driver) == chrome_driver.title
-    assert webElement5(
-        chrome_driver) == "Week 5 Unit Tests - CS50's Introduction to Programming with Python"
-
-
-def test_week6():
-    assert webElement6(chrome_driver) == chrome_driver.title
-    assert webElement6(
-        chrome_driver) == "Week 6 File I/O - CS50's Introduction to Programming with Python"
-
-
-def test_week7():
-    assert webElement7(chrome_driver) == chrome_driver.title
-    assert webElement7(
-        chrome_driver) == "Week 7 Regular Expressions - CS50's Introduction to Programming with Python"
-
-
-def test_week8():
-    assert webElement8(chrome_driver) == chrome_driver.title
-    assert webElement8(
-        chrome_driver) == "Week 8 Object-Oriented Programming - CS50's Introduction to Programming with Python"
-
-
-def test_week9():
-    assert webElement9(chrome_driver) == chrome_driver.title
-    assert webElement9(
-        chrome_driver) == "Final Project - CS50's Introduction to Programming with Python"

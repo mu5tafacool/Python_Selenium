@@ -1,145 +1,24 @@
-# Automation Cs50p
+<a name="readme-top"></a>
 
-## Final Project
+<h1 align="center">Automation CS50P</h1>
+<h2 align="center">Final Project</h2>
 
-#### Video Demo: <URL HERE>
-
-Currently working through CS50P, [Intro to programming with python](https://cs50.harvard.edu/python/2022/). A summary of the problem sets is here
-
-Each weeks problem set on:
-
-<details><summary>Weeks</summary>
- <p>
-
-### WEEK 0 : [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/) | Completed                                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| Indoor Voice                                                 | [indoor](https://github.com/me50/mu5tafacool/tree/main/week0/indoor)     |
-| Playback Speed                                               | [indoor](https://github.com/me50/mu5tafacool/tree/main/week0/indoor)     |
-| Making Face                                                  | [faces](https://github.com/me50/mu5tafacool/tree/main/week0/faces)       |
-| Einstein                                                     | [einstein](https://github.com/me50/mu5tafacool/tree/main/week0/einstein) |
-| Tip Calculator                                               | [tip](https://github.com/me50/mu5tafacool/tree/main/week0/tip)           |
-
----
-
-### WEEK 1 : [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/) | Completed                                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Deep Thought                                                 | [deep](https://github.com/me50/mu5tafacool/tree/main/week1/deep)               |
-| Home Federal Savings Bank                                    | [bank](https://github.com/me50/mu5tafacool/tree/main/week1/bank)               |
-| File Extensions                                              | [extension](https://github.com/me50/mu5tafacool/tree/main/week1/extensions)    |
-| Math Interpreter                                             | [interpreter](https://github.com/me50/mu5tafacool/tree/main/week1/interpreter) |
-| Meal Time                                                    | [meal](https://github.com/me50/mu5tafacool/tree/main/week1/meal)               |
-
----
-
-### WEEK 2 : [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/) | Completed                                                                  |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| Camel Case                                                   | [camel](https://github.com/me50/mu5tafacool/tree/main/week2/camel)         |
-| Coke Machine                                                 | [coke](https://github.com/me50/mu5tafacool/tree/main/week2/coke)           |
-| Just setting up my twttr                                     | [twttr](https://github.com/me50/mu5tafacool/tree/main/week2/twttr)         |
-| Vanity Plates                                                | [plates](https://github.com/me50/mu5tafacool/tree/main/week2/plates)       |
-| Nutrition Facts                                              | [nutrition](https://github.com/me50/mu5tafacool/tree/main/week2/nutrition) |
-
----
-
-### WEEK 3 : [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/) | Completed                                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| Fuel Gauge                                                   | [fuel](https://github.com/me50/mu5tafacool/tree/main/week3/fuel)         |
-| Felipe's Taqueria                                            | [taqueria](https://github.com/me50/mu5tafacool/tree/main/week3/taqueria) |
-| Grocery List                                                 | [grocery](https://github.com/me50/mu5tafacool/tree/main/week3/grocery)   |
-| Outdated                                                     | [outdated](https://github.com/me50/mu5tafacool/tree/main/week3/outdated) |
-
----
-
-### WEEK 4 : [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/4/) | Completed                                                                  |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| Emojize                                                      | [emojize](https://github.com/me50/mu5tafacool/tree/main/week4/emojize)     |
-| Frank, Ian and Glen’s Letters                                | [adieu](https://github.com/me50/mu5tafacool/tree/main/week4/adieu)         |
-| Adieu, Adieu                                                 | [adieu](https://github.com/me50/mu5tafacool/tree/main/week4/adieu)         |
-| Guessing Game                                                | [game](https://github.com/me50/mu5tafacool/tree/main/week4/game)           |
-| Little Professor                                             | [professor](https://github.com/me50/mu5tafacool/tree/main/week4/professor) |
-| Bitcoin Price Index                                          | [bitcoin](hhttps://github.com/me50/mu5tafacool/tree/main/week4/bitcoin)    |
-
----
-
-### WEEK 5 : [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/5/) | Completed                                                                      |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| Testing my twittr                                            | [test_twttr](https://github.com/me50/mu5tafacool/tree/main/week5/test_twttr)   |
-| Back to the Bank                                             | [test_bank](https://github.com/me50/mu5tafacool/tree/main/week5/test_bank)     |
-| Re-requesting a Vanity Plate                                 | [test_plates](https://github.com/me50/mu5tafacool/tree/main/week5/test_plates) |
-| Refueling                                                    | [test_fuel](https://github.com/me50/mu5tafacool/tree/main/week5/test_fuel)     |
-
----
-
-### WEEK 6 : [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/6/) | Completed                                                                  |
-| ------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| Lines of Code                                                | [lines](https://github.com/me50/mu5tafacool/tree/main/week6/lines)         |
-| Pizza Py                                                     | [pizza](https://github.com/me50/mu5tafacool/tree/main/week6/pizza)         |
-| Scourgify                                                    | [scourgify](https://github.com/me50/mu5tafacool/tree/main/week6/scourgify) |
-| CS50 P-Shirt                                                 | [shirt](https://github.com/me50/mu5tafacool/tree/main/week6/shirt)         |
-
----
-
-### WEEK 7 : [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
-
-| [Problem Set](https://cs50.harvard.edu/python/2022/psets/7/) | Completed                                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| NUMB3RS                                                      | [numb3rs](https://github.com/me50/mu5tafacool/tree/main/week7/numb3rs)   |
-| Watch on YouTube                                             | [watch](https://github.com/me50/mu5tafacool/tree/main/week7/watch)       |
-| Working 9 to 5                                               | [working](https://github.com/me50/mu5tafacool/tree/main/week7/working)   |
-| Regular, um, Expressions                                     | [um](https://github.com/me50/mu5tafacool/tree/main/week7/um)             |
-| Response Validation                                          | [response](https://github.com/me50/mu5tafacool/tree/main/week7/response) |
-
----
-
-### WEEK 8 : [Object Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
-
-| [Problem Set ](https://cs50.harvard.edu/python/2022/psets/8/) | Completed                                                                        |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| Seasons of Love                                               | [seasons](https://github.com/me50/mu5tafacool/tree/main/week8/seasons)           |
-| Cookie Jar                                                    | [jar](https://github.com/me50/mu5tafacool/tree/main/week8/jar)                   |
-| CS50 Shirtificate                                             | [shirtificate](https://github.com/me50/mu5tafacool/tree/main/week8/shirtificate) |
-
-</p>
-</details>
-
----
-
-### WEEK 9 : [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
-
-| [Final Project](https://cs50.harvard.edu/python/2022/project/) | Completed                                                        |
-| -------------------------------------------------------------- | ---------------------------------------------------------------- |
-| Final Project                                                  | [project](https://github.com/me50/mu5tafacool/tree/main/project) |
-
----
-
-<!-- [FINAL PROJECT](https://github.com/me50/mu5tafacool/tree/main/project) -->
-
-##################################### ##########
-
-# CS50’s Introduction to Programming with Python in Automation Testing
+#### Video Demo: <https://youtu.be/2FYpvbXCQIw>
 
 #### Description:
 
 **Decision of the CS50P course, final project idea by Harvard:**
-The idea of creating the project is similar to my choice of profession. So, I decided to create automation with python programming language. The program language must be used with a tool to work. I thought about adding a package to the project. Automation tool that I use in Java programming language, at the end of the research. I decided to use [Selenium](https://pypi.org/project/selenium/) package. I found a library called **Automation Cs50p** to help me do this project, and there was also a need for other packages. It automatically adds the browser driver to the project with the [webdriver-manager](https://pypi.org/project/webdriver-manager/) package after Run. [pytest-selenium](https://pypi.org/project/pytest-selenium/) is a plugin for pytest and it allows to test the selenium based project.
-
+The idea of creating the project is similar to my choice of profession. So, I decided to create automation with python programming language. The program language must be used with a tool to work. I thought about adding a package to the project. Automation tool that I use in Java programming language, at the end of the research. I decided to use [Selenium](https://pypi.org/project/selenium/) package. I found a title called **Automation CS50P**. There was also a need for other packages to help me do this project. After Run, It automatically adds the browser driver to the project with the [webdriver-manager](https://pypi.org/project/webdriver-manager/) package. [pytest-selenium](https://pypi.org/project/pytest-selenium/) is a plugin for pytest and it allows to test the selenium based project.
 This project is to automation the course website using [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/).
 
-#
+### What's Automation test?
+
+> In summary, any software or application has expected criteria. It is the process of testing them using an automation test tool. The goal is to compare the actual result with the expected result and find defects or bugs.
+>
+> - To build bug-free applications.
+> - To satisfy end user and client.
+
+# CS50’s Introduction to Programming with Python in Automation Testing
 
 - ## This Acceptable Criteria
   ### Purpose of the test:
@@ -148,9 +27,11 @@ This project is to automation the course website using [Selenium WebDriver](http
   > - See the weekly course materials.
   > - Accessing and seeing each week's problem sets.
 
+## To begin
+
 ---
 
-- To begin, you can install request modules with their methods:
+- You can install request modules with their methods:
 
 ```
     pip install -r requirements.txt
@@ -168,28 +49,26 @@ This project is to automation the course website using [Selenium WebDriver](http
     python -m  pytest test_project.py
 ```
 
-## Project steps
+## Project Steps
 
----
+### [`project.py`](https://github.com/me50/mu5tafacool/blob/main/project/project.py)
 
-### [project.py](https://github.com/me50/mu5tafacool/blob/main/project/project.py)
+### Run on beginning
 
-> Run on beginning
+> - Installing a browser to work
+> - The second run method maximizes the browser window by webdriver method
 
-    - Installing a browser to work
-    - The second run method maximizes the browser window by webdriver method
-
-After Run
+### After Run
 
 > - The browser goes to the [course site](https://cs50.harvard.edu/python/2022/)
 > - Opens and closes the [introduction video](https://youtu.be/OvKCESUCWII) of the course in full screen
 > - Opening the elements panel to [inspect](https://en.wikipedia.org/wiki/Web_development_tools) on browser, then creating locators by using the [`find_element` method](https://www.selenium.dev/documentation/webdriver/elements/finders/)
 > - The time has been set to wait for the web pages to be opened by until method of [`WebDriverWait class`](https://github.com/SeleniumHQ/selenium/blob/trunk/py/selenium/webdriver/support/wait.py)
 > - Click on the course [weeks material page](https://cs50.harvard.edu/python/2022/weeks/)
-> - Click on the [problem set page](https://cs50.harvard.edu/python/2022/psets/0/) for the first week (week 0)
+> - Click on the [problem set page](https://cs50.harvard.edu/python/2022/psets/0/) for the Week 0
 > - With for loops, `find_elements` of week problem set
-> - Every problem page of the first week is checked by Improving with User Input (`while True:`)
-> - Write the problem set list of each weekly lesson in a [txt file](https://github.com/me50/mu5tafacool/blob/main/project/lists_of_problem_set.txt) with for loops
+> - Every problem page of the first week is checked by Improving with User Input > `while True:`
+> - Write the problem sets list of each weekly lesson in a `txt file`with for loops
 > - This file is printed by `print` function
 > - These procedures are done to write in the order of weeks
 > - Control so a member can access all materials
@@ -198,13 +77,13 @@ After Run
 
 ### Automation is done in approximately a few minutes, but manual control takes more time. There is a possibility of manual user error.
 
-## Unit tests
+<p align="right"><u><a href="#readme-top">back to top</a></u></p>
 
----
+## Test
 
 Used to check whether all the functions in the code are working as expected. The pytest-selenium plugin provides functionality with browser work for tests.
 
-### [test_project.py](https://github.com/me50/mu5tafacool/blob/main/project/test_project.py)
+### `test_project.py`
 
 These are the tests implemented:
 
@@ -224,7 +103,7 @@ def test_week0():
 def test_problem_set_page():
 ```
 
-- used to check if the specified position is free to insert marker
+- User should be able to click on Problem Set page then check
 
 ```ruby
 def test_problems_of_week():
@@ -234,7 +113,7 @@ def test_problems_of_week():
   <details><summary>Week 0</summary>
   <p>
 
-  #### Improving with User Input (`while True:`) with dynamic function
+  #### Improving with User Input > `while True:` with dynamic function
 
   - [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/)
   - [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/)
@@ -299,12 +178,136 @@ def test_week9():
 
 - User should be able to click on Final Project page then check
 
-## Contact
+---
 
-|              | ??????????                                                 |
-| ------------ | ---------------------------------------------------------- |
-| Mustafa Kul: | [mustafakulkulf1@gmail.com](mailto:mustafakulf1@gmail.com) |
-| -            | -                                                          |
+<!-- all weeks problem sets lists -->
+
+## A summary of the problem sets
+
+Currently working through CS50P, [Intro to programming with python](https://cs50.harvard.edu/python/2022/).
+
+Completed each weeks problem set on here:
+
+<details><summary>Weeks</summary>
+ <p>
+
+#### WEEK 0 : [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/0/) | Completed |
+| ------------------------------------------------------------ | --------- |
+| Indoor Voice                                                 | indoor    |
+| Playback Speed                                               | play      |
+| Making Face                                                  | faces     |
+| Einstein                                                     | einstein  |
+| Tip Calculator                                               | tip       |
+
+---
+
+#### WEEK 1 : [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/1/) | Completed   |
+| ------------------------------------------------------------ | ----------- |
+| Deep Thought                                                 | deep        |
+| Home Federal Savings Bank                                    | bank        |
+| File Extensions                                              | extension   |
+| Math Interpreter                                             | interpreter |
+| Meal Time                                                    | meal        |
+
+---
+
+#### WEEK 2 : [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/2/) | Completed |
+| ------------------------------------------------------------ | --------- |
+| Camel Case                                                   | camel     |
+| Coke Machine                                                 | coke      |
+| Just setting up my twttr                                     | twttr     |
+| Vanity Plates                                                | plates    |
+| Nutrition Facts                                              | nutrition |
+
+---
+
+#### WEEK 3 : [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/3/) | Completed |
+| ------------------------------------------------------------ | --------- |
+| Fuel Gauge                                                   | [fuel     |
+| Felipe's Taqueria                                            | taqueria  |
+|                                                              |
+| Grocery List                                                 | grocery   |
+| Outdated                                                     | outdated  |
+
+---
+
+#### WEEK 4 : [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/4/) | Completed |
+| ------------------------------------------------------------ | --------- |
+| Emojize                                                      | emojize   |
+| Frank, Ian and Glen’s Letters                                | adieu     |
+| Adieu, Adieu                                                 | adieu     |
+| Guessing Game                                                | game      |
+| Little Professor                                             | professor |
+| Bitcoin Price Index                                          | bitcoin   |
+
+---
+
+#### WEEK 5 : [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/5/) | Completed   |
+| ------------------------------------------------------------ | ----------- |
+| Testing my twittr                                            | test_twttr  |
+| Back to the Bank                                             | test_bank   |
+| Re-requesting a Vanity Plate                                 | test_plates |
+| Refueling                                                    | test_fuel   |
+
+---
+
+#### WEEK 6 : [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/6/) | Completed |
+| ------------------------------------------------------------ | --------- |
+| Lines of Code                                                | lines     |
+| Pizza Py                                                     | pizza     |
+| Scourgify                                                    | scourgify |
+| CS50 P-Shirt                                                 | shirt     |
+
+---
+
+#### WEEK 7 : [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
+
+| [Problem Set](https://cs50.harvard.edu/python/2022/psets/7/) | Completed |
+| ------------------------------------------------------------ | --------- |
+| NUMB3RS                                                      | numb3rs   |
+| Watch on YouTube                                             | [watch    |
+| Working 9 to 5                                               | working   |
+| Regular, um, Expressions                                     | um        |
+| Response Validation                                          | response  |
+
+---
+
+#### WEEK 8 : [Object Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8/)
+
+| [Problem Set ](https://cs50.harvard.edu/python/2022/psets/8/) | Completed    |
+| ------------------------------------------------------------- | ------------ |
+| Seasons of Love                                               | seasons      |
+| Cookie Jar                                                    | jar          |
+| CS50 Shirtificate                                             | shirtificate |
+
+---
+
+#### WEEK 9 : [Et Cetera](https://cs50.harvard.edu/python/2022/weeks/9/)
+
+| [Final Project](https://cs50.harvard.edu/python/2022/project/) | Completed |
+| -------------------------------------------------------------- | --------- |
+| Final Project                                                  | project   |
+
+</p>
+</details>
+
+---
+
+## Contact
 
 Mustafa Kul: [mustafakulkulf1@gmail.com](mailto:mustafakulf1@gmail.com)
 
@@ -312,15 +315,4 @@ LinkedIn : [linkedin.com/in/mkulf1](https://www.linkedin.com/in/mkulf1)
 
 GitHub : [mu5tafacool](https://github.com/mu5tafacool)
 
-<p align="right"><a href="#readme-top">back to top</a></p>
-
-##################################### ##########
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mku" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-
-##################################### ##########
+<p align="right"><u><a href="#readme-top">back to top</a></u></p>
