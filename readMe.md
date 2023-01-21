@@ -8,7 +8,7 @@
 #### Description:
 
 **Decision of the CS50P course, final project idea by Harvard:**
-The idea of creating the project is similar to my choice of profession. So, I decided to create automation with python programming language. The program language must be used with a tool to work. I thought about adding a package to the project. Automation tool that I use in Java programming language, at the end of the research. I decided to use [Selenium](https://pypi.org/project/selenium/) package. I found a title called **Automation CS50P**. There was also a need for other packages to help me do this project. After Run, It automatically adds the browser driver to the project with the [webdriver-manager](https://pypi.org/project/webdriver-manager/) package. [pytest-selenium](https://pypi.org/project/pytest-selenium/) is a plugin for pytest and it allows to test the selenium based project.
+Automation tool that I use in Java programming language, at the end of the research. I decided to use [Selenium](https://pypi.org/project/selenium/) package. I found a title called **Automation CS50P**. There was also a need for other packages to help me do this project. After Run, It automatically adds the browser driver to the project with the [webdriver-manager](https://pypi.org/project/webdriver-manager/) package. [pytest-selenium](https://pypi.org/project/pytest-selenium/) is a plugin for pytest and it allows to test the selenium based project.
 This project is to automation the course website using [Selenium WebDriver](https://www.selenium.dev/documentation/webdriver/).
 
 ### What's Automation test?
@@ -51,7 +51,7 @@ This project is to automation the course website using [Selenium WebDriver](http
 
 ## Project Steps
 
-### [`project.py`](https://github.com/me50/mu5tafacool/blob/main/project/project.py)
+### `project.py`
 
 ### Run on beginning
 
@@ -68,7 +68,7 @@ This project is to automation the course website using [Selenium WebDriver](http
 > - Click on the [problem set page](https://cs50.harvard.edu/python/2022/psets/0/) for the Week 0
 > - With for loops, `find_elements` of week problem set
 > - Every problem page of the first week is checked by Improving with User Input > `while True:`
-> - Write the problem sets list of each weekly lesson in a `txt file`with for loops
+> - Write the problem sets list of each weekly lesson in a `txt file` with for loops
 > - This file is printed by `print` function
 > - These procedures are done to write in the order of weeks
 > - Control so a member can access all materials
